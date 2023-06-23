@@ -1,0 +1,13 @@
+package com.capgemini.helloworld;
+
+public class Float 
+{
+	public static void main(String args[])
+	{
+		float a=1.1f;
+		float b=2.1f;
+		float c=a+b;
+		System.out.println(c);
+	}
+
+}

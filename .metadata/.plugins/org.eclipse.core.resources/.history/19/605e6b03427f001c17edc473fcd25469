@@ -1,0 +1,9 @@
+package com.capgemini.helloworld;
+
+public class String {
+	public static void main(String args[])
+	{
+		string a="Hello";
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.practice;
+
+public class MyWhile 
+{
+	public static void main(String args[])
+	{
+		//loop
+		int cnt=1;
+		do
+		{
+			System.out.println("Hello world");
+			cnt++;
+		}while(cnt<=9);
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.capgemini.helloworld;
+
+public class Character 
+{
+	public static void main(String args[])
+	{
+		char a='A';
+		char b='B';
+		char c=(char) (a+b);
+		System.out.println(c);
+	}
+
+}

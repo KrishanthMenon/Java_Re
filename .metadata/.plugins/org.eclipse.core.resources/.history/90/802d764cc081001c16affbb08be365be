@@ -1,0 +1,14 @@
+package com.practice;
+
+public class MyWhile 
+{
+	public static void main(String args[])
+	{
+		//loop
+		while(true)
+		{
+			System.out.println("Hello world");
+		}
+	}
+
+}

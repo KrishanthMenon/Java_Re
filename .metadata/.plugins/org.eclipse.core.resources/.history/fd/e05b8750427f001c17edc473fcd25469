@@ -1,0 +1,11 @@
+package com.capgemini.helloworld;
+
+public class Character 
+{
+	public static void main(String args[])
+	{
+		char a=65;
+		System.out.println(a);
+	}
+
+}

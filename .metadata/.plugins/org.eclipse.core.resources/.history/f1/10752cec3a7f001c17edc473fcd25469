@@ -1,0 +1,11 @@
+package com.capgemini.helloworld;
+
+public class String 
+{
+	public static void main(String args[]) 
+	{
+		String a="Hello";
+		String b=" world";
+		System.out.print(a+b);
+	}
+}

@@ -1,0 +1,24 @@
+package com.capgemini.helloworld;
+
+public class My_nested_if 
+{
+	public static void main(String args[])
+	{
+		int a=-2;
+		//number should be positive
+		if(a>0)
+		{
+			//even or odd
+			//try
+			if(a%2==0)
+			{
+				System.out.println("Even");
+			}
+		}
+		else
+		{
+			System.out.println("Others");
+		}
+	}
+
+}

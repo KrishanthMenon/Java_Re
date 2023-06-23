@@ -1,0 +1,12 @@
+package com.capgemini.helloworld;
+
+public class Read_write_float {
+	
+	public static void main(String args[])
+	{
+		float a=1.1;
+		float b=2.2;
+		System.out.print(a+b);
+	}
+
+}

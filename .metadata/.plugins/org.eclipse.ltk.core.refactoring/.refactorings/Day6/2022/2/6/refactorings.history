@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.day6.MyThrowException&apos; to &apos;MyThrowExceptionAge&apos;&#x0D;&#x0A;- Original project: &apos;Day6&apos;&#x0D;&#x0A;- Original element: &apos;com.day6.MyThrowException&apos;&#x0D;&#x0A;- Renamed element: &apos;com.day6.MyThrowExceptionAge&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyThrowException&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.day6{MyThrowException.java[MyThrowException" matchStrategy="1" name="MyThrowExceptionAge" qualified="false" references="true" similarDeclarations="false" stamp="1643863220141" textual="false" version="1.0"/>
+</session>

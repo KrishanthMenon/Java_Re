@@ -1,0 +1,22 @@
+package com.capgemini.helloworld;
+
+public class My_switch 
+{
+	public static void main(String args[])
+	{
+		int a=1;
+		switch(a)
+		{
+		case 1:
+			System.out.println("Sun");
+			break;
+		case 2:
+			System.out.println("Mon");
+			break;
+			default:
+				System.out.println("None");
+				break;
+		}
+	}
+
+}
